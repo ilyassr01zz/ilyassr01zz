@@ -1,16 +1,16 @@
 ## Hi there 👋
 
-<!--
-**ilyassr01zz/ilyassr01zz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm Ilyass, a computer science student from Morocco 🇲🇦  
+I love hiking 🧗, coding 💻, and building cool things!
 
-Here are some ideas to get you started:
+## 🔧 Skills
+- C, Java, HTML, CSS, Tailwind CSS.
+- Git & GitHub
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🌍 Projects
+- `korsa.ma` — Book grand taxis online
+- `my-first-project` — Learning GitHub!
+
+## 📫 How to reach me
+- Email: i.lhafi@aui.ma
+- Instagram: [@ilyass.r01zz](https://instagram.com/ilyass.r01zz)
