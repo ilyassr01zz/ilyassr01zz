@@ -17,8 +17,8 @@ Node.js, Express.js, REST APIs
 Git, GitHub, VS Code, npm, Postman, Vite
 
 ## 🌍 Projects
-- `korsa.ma` — Book grand taxis online
-- `The Moroccan digital Renaissance` — Web platform to improve financial literacy
+- `korsa.ma` — Book grand taxis online (Personal Idea in constant development)
+- `The Moroccan digital Renaissance` — Web platform to improve financial literacy (Hackathon Idea)
 - `MedAxis Africa` — Digital prescription infrastructure prototype (Upanzi Africa Digital ID Hackathon — Semi-Finalist, competition ongoing)
 
 ## 📫 How to reach me
