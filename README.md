@@ -4,16 +4,16 @@ I'm Ilyass, a computer science student from Morocco 🇲🇦
 I love hiking 🧗, coding 💻, and building cool things!
 
 ## 🔧 Skills
-**Languages**
+**Languages:**
 JavaScript (ES6+), TypeScript, Python, Java, C
 
-**Frontend**
+**Frontend:**
 React, Tailwind CSS, HTML5, CSS3, Responsive Design
 
-**Backend**
+**Backend:**
 Node.js, Express.js, REST APIs
 
-**Tools & Platforms**
+**Tools & Platforms:**
 Git, GitHub, VS Code, npm, Postman, Vite
 
 ## 🌍 Projects
