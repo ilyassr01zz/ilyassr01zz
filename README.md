@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-I'm Ilyass, a computer science student from Morocco 🇲🇦  
+I'm Ilyass, a junior computer science student from Morocco 🇲🇦 @ Al Akhawayn University in Ifrane
 I love hiking 🧗, coding 💻, and building cool things!
 
 ## 🔧 Skills
