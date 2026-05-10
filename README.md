@@ -1,27 +1,34 @@
-## Hi there 👋
+## Hey, I'm Ilyass 👋
 
-I'm Ilyass, a junior computer science student from Morocco 🇲🇦 @ Al Akhawayn University in Ifrane
+CS student at Al Akhawayn University in Morocco, heading into a 
+cybersecurity & AI specialization. I build things that solve real 
+problems — mostly around identity, security, and access.
 
-I love hiking 🧗, coding 💻, and building cool things!
+When I'm not coding I'm organizing expeditions in the Atlas Mountains 
+as president of my university's Extreme Sports Association.
 
-## 🔧 Skills
-**Languages:**
-JavaScript (ES6+), TypeScript, Python, Java, C
+## 🛠 Stack
 
-**Frontend:**
-React, Tailwind CSS, HTML5, CSS3, Responsive Design
+**Languages:** JavaScript, Python, Java, C  
+**Frontend:** React, Tailwind CSS, HTML5, CSS3  
+**Backend:** Node.js, Express.js, REST APIs  
+**Tools:** Git, Docker, Docker Compose, Postman, pgAdmin  
 
-**Backend:**
-Node.js, Express.js, REST APIs
+## 🚀 Projects
 
-**Tools & Platforms:**
-Git, GitHub, VS Code, npm, Postman, Vite
+**MedAxis Africa** — Decentralized digital identity system integrating 
+eSignet (OpenID Connect), Inji Certify, and Inji Verify. 
+Upanzi Africa Digital ID Hackathon — Semi-Finalist.  
+→ github.com/ilyassr01zz/MedAxis-Africa
 
-## 🌍 Projects
-- `korsa.ma` — Book grand taxis online (Personal Idea in constant development)
-- `The Moroccan digital Renaissance` — Web platform to improve financial literacy (Hackathon Idea)
-- `MedAxis Africa` — Digital prescription infrastructure prototype (Upanzi Africa Digital ID Hackathon — Semi-Finalist, competition ongoing)
+**Korsa.ma** — Platform to search and book grand taxis across Morocco.  
+→ github.com/ilyassr01zz/Korsa.ma
 
-## 📫 How to reach me
-- Email: i.lhafi@aui.ma
-- Instagram: [@ilyass.r01zz](https://instagram.com/ilyass.r01zz)
+**Financial Literacy Platform** — Web app with simulated wallet and 
+finance learning modules. CIH Bank Hackathon.  
+→ github.com/ilyassr01zz/MDR-PROTOTYPE
+
+## 📫 Reach me
+
+ilyass.lhafi2005@gmail.com  
+linkedin.com/in/ilyass-lhafi-cs
